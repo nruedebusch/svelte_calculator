@@ -106,6 +106,8 @@
   </div>
 </main>
 
+//styling
+
 <style>
   main {
     width: 100%;
