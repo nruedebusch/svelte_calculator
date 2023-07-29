@@ -79,7 +79,7 @@
 
 <main>
   <div class="calculator">
-    <div class="results>
+    <div class="results">
       {display}
     </div>
     <div class="digits">
