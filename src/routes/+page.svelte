@@ -167,7 +167,6 @@
     flex-direction: row-reverse;
     margin-right: 10px;
     border-radius: 3.5px;
-padding:0;
   }
 
 </style>
