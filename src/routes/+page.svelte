@@ -1,6 +1,4 @@
 <!-- script -->
-
-
 <script lang="ts">
 
 <!-- Numbers -->
