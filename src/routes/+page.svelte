@@ -111,7 +111,7 @@
   </div>
 </main>
 
-<!-- styling-->
+<!-- style-->
 <style>
   main {
     width: 100%;
